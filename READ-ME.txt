@@ -1,0 +1,7 @@
+  =>  Template Name    : Restoran - Bootstrap Restaurant Template
+
+  =>  Template Author  : Webgrow Agency
+
+  =>  Author Website   : https://webgrow.agency
+
+  =>  About Webgrow    : Webgrow Agency specializes in creating modern, responsive web templates and custom web solutions.
